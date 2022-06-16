@@ -1,3 +1,8 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(Hanson.ttf);
+}
+
 * {
     padding: 0;
     margin: 0;
